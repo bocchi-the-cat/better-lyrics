@@ -296,7 +296,9 @@ Adding custom providers isn't currently supported.
 
 ### Can I use Better Lyrics on other browsers?
 
-Right now, Better Lyrics is available for Chrome, Firefox, and Edge (and other Chromium-based browsers like Brave, Opera, Arc, etc.). If there's enough demand, I might consider porting it to other browsers.
+Right now, Better Lyrics is available for Chrome, Firefox*, and Edge (and other Chromium-based browsers like Brave, Opera, Arc, etc.). If there's enough demand, I might consider porting it to other browsers.
+
+<sub>*Firefox does not currently support linking to discord</sub>
 
 ### Can I use Better Lyrics on other music streaming services?
 
